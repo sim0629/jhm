@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MathClass", "MATHCLASS.vcproj", "{8DBE6328-5431-4F79-9A2C-F9D76BE00007}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8DBE6328-5431-4F79-9A2C-F9D76BE00007}.Debug.ActiveCfg = Debug|Win32
+		{8DBE6328-5431-4F79-9A2C-F9D76BE00007}.Debug.Build.0 = Debug|Win32
+		{8DBE6328-5431-4F79-9A2C-F9D76BE00007}.Release.ActiveCfg = Release|Win32
+		{8DBE6328-5431-4F79-9A2C-F9D76BE00007}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
